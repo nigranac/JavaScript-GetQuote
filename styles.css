@@ -15,7 +15,7 @@ body {
 }
 
 #homeFullScreen {
-  background-image: url("../images/back.jpg");
+  background-image: url("../images/new2.png");
   overflow: hidden;
 }
 
@@ -33,10 +33,15 @@ a {
   margin: 30px;
 }
 .header-text h1 {
-  font-size: 60px;
+  font-size: 80px;
   color: #fff;
   text-transform: uppercase;
   margin-bottom: 30px;
+  color: brown;
+}
+#quote {
+  color: chocolate;
+  font-size: 30px;
 }
 
 .header-text .vertical-line {
