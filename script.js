@@ -7,7 +7,7 @@ function getKanye() {
       document.getElementById("quote").innerHTML = data.quote;
 
       const tweet = encodeURIComponent(
-        `"${data.quote}"-@kanyewest via https://kanye.rest @ajzbc`
+        `"${data.quote}"-@kanyewest via https://nigranac.github.io/JavaScript-GetQuote/ @nigranac`
       );
       document.getElementById(
         "tweet"
