@@ -16,6 +16,7 @@ body {
 
 #homeFullScreen {
   background-image: url("../assets/new2.png");
+
   overflow: hidden;
 }
 
