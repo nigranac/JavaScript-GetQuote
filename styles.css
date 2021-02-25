@@ -3,6 +3,7 @@ body {
   /* border: 3px solid red; */
   height: 100vh;
   box-sizing: border-box;
+  background: url("../assets/new2.png");
 }
 
 #homeFullScreen {
@@ -15,8 +16,6 @@ body {
 }
 
 #homeFullScreen {
-  background-image: url("../assets/new2.png");
-
   overflow: hidden;
 }
 
